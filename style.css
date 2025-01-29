@@ -1,0 +1,31 @@
+*{
+    margin:0%;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+.navbar-brand{
+    width: 10%;
+}
+.navbar{
+    background-color:#ff1744;
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+}
+.fav-bar{
+    color: white;
+    font-weight: bold;
+}
+#home{
+    background-image: url('https://img.freepik.com/free-photo/fresh-sweet-blueberry-fruit-mint-leaf-with-copy-space-dessert-healthy-food-group-ripe-blue-juicy-organic-berries-web-site-banner-design-isolated-white-background_1391-712.jpg?t=st=1738144802~exp=1738148402~hmac=5c17955d74b853106dc6a2d39c3ad37ebbe7539cafbe2ba6e38bd79802f0b551&w=996');
+    width: 100vw;
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    color: white;
+    font-size: 50px;
+    text-shadow: 1px 2px 3px black;
+}
