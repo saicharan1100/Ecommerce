@@ -16,11 +16,12 @@
 .fav-bar{
     color: white;
     font-weight: bold;
+    font-size: 30px
 }
 #home{
     background-image: url('https://img.freepik.com/free-photo/fresh-sweet-blueberry-fruit-mint-leaf-with-copy-space-dessert-healthy-food-group-ripe-blue-juicy-organic-berries-web-site-banner-design-isolated-white-background_1391-712.jpg?t=st=1738144802~exp=1738148402~hmac=5c17955d74b853106dc6a2d39c3ad37ebbe7539cafbe2ba6e38bd79802f0b551&w=996');
     width: 100vw;
-    height: 60vh;
+    height: 70vh;
     background-size: cover;
     background-position: center;
 }
@@ -28,4 +29,55 @@
     color: white;
     font-size: 50px;
     text-shadow: 1px 2px 3px black;
+}
+/* about */
+.aboutcontent{
+    background-color: #ff1744;
+    padding: 3%;
+}
+.aboutcontent h1{
+    color: white;
+}
+.aboutcontent p{
+    color: white;
+    line-height: 35px;
+    text-align: left;
+}
+/* carousel */
+.carousel-item img{
+    aspect-ratio: 3/2;
+}
+.card img{
+    aspect-ratio:3/2 ;
+}
+#about{
+    margin-bottom: 5%;
+}
+/* product */
+#product{
+    margin: 3%;
+}
+.card-body h5{
+color: green;
+}
+.card-body p{
+    font-weight: bold;
+    color: red;
+}
+/* payment */
+.input-group-text{
+    background-color: blue;
+    color: white;
+    border: none;
+    text-shadow: 1px 2px 3px solid black;
+}
+
+.fa-cc-mastercard{
+    color:blue;
+    font-size: 30px;
+    margin-top: 2%;
+}
+.fa-cc-visa{
+    font-size: 30px;
+    margin-top: 2%;  
 }
