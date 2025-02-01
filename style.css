@@ -81,3 +81,41 @@ color: green;
     font-size: 30px;
     margin-top: 2%;  
 }
+/* contact */
+.chead{
+    color: green;
+}
+.form-label{
+    color: #ff1744;
+    font-weight: bold;
+}
+/* footer */
+#footer{
+    background-color: #ff1744;
+}
+.fhead{
+    color:white;
+    text-decoration: 2px solid gold underline;
+}
+.end h6{
+    color: white;
+    text-decoration: 2px solid green underline;
+    font-weight: bold;
+}
+.end.p{
+    color: white;
+}
+.icons .fa-brands{
+    color: white;
+    font-size: 30px;
+    margin: 1%;
+}
+.icons .fa-brands:hover{
+    color:skyblue;
+}
+#atlast{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 1%;
+}
